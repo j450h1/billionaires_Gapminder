@@ -3,5 +3,5 @@ This is a mini-project for Data Analysis with R as part of Udacity's Data Analys
 
 ![Progress of Billionaires](https://github.com/j450h1/billionaires_Gapminder/raw/master/billionaires_progress.png)
 
-##Conclusion:
+###Conclusion:
 Looks like the average age of billionaires is going down and people from more countries are joining the billionaires club.
